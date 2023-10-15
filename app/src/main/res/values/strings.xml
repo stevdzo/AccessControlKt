@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">AccessControlApp</string>
+    <string name="default_client_id" tools:ignore="TypographyDashes">513020160698-6kiipe5dat548ij494hu8qgebprhauvu.apps.googleusercontent.com</string>
+</resources>
